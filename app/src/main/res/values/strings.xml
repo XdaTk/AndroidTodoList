@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">任务列表</string>
+    <string-array name="priority_levels">
+        <item>不重要</item>
+        <item>一般</item>
+        <item>重要</item>
+    </string-array>
+    <string name="dialog_editing_title">编辑</string>
+    <string name="dialog_title">添加</string>
+    <string name="dialog_ok">确定</string>
+    <string name="dialog_cancel">取消</string>
+    <string name="dialog_error_emrty_title">内容不能为空</string>
+    <string name="dialog_removing_message">确定要删除这个任务?</string>
+    <string name="removed">删除</string>
+    <string name="task_title">标题</string>
+    <string name="task_date">日期</string>
+    <string name="task_time">时间</string>
+    <string name="cache_add">取消添加</string>
+</resources>
